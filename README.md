@@ -9,3 +9,9 @@ My use case for this is I keep all my Mixxx sets in subfolders in a folder label
 
 ## setlistbackup.py - Back up your setlist information into a convenient spreadsheet!
 Generates an .XLS spreadsheet file inside all subfolders the script is run in, which backs up ID3 metadata of artists/songs/albums and genres contained in the subfolder. Useful for backing up metadata to the cloud in case of data loss. Requires files to have proper ID3 metadata (but if you're a DJ you should be making sure of this anyway). Also this script isn't Mixxx-specific so use it on your DJ crates and playlists so you don't lose your track info! Requires python-eyed3 & python-xlwt.
+
+### Why(?)
+I was mainly looking for a quick and simple solution to backing up crate information in the event of catastrophic data failure. By converting it to an .XLS spreadsheet, it's simple to back up onto a cloud drive and read from, with the ability to organize by genre/artist/etc. in any spreadsheet software. 
+
+### TODO:
+Change from proprietary .XLS exporting to the open-source .ODS formatting.
