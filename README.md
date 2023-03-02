@@ -15,3 +15,10 @@ I was mainly looking for a quick and simple solution to backing up crate informa
 
 ### TODO:
 Change from proprietary .XLS exporting to the open-source .ODS formatting.
+
+## MIDIRead.py - Export MIDI presses to user-readable notes!
+
+A quick and easy way to figure out MIDI note data from MIDI/DJ controllers for easy input/output mapping in Mixxx or similar software.
+
+### Why(?)
+To make controller development easier for everyone! 
