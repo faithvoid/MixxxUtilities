@@ -1,7 +1,7 @@
 # MixxxUtilities
 Various python/shell scripts for simplifying one's workflow in Mixxx. 
 
-## [m3ustrip](https://www.google.com](https://virtual.dimensionless.space/m3ustrip)
+## [m3ustrip](https://virtual.dimensionless.space/m3ustrip)
 
 HTML script that removes all folder information from .m3u/.m3u8 files. Useful for carrying your sets (including hotcues, BPM, etc) on a USB if you combine it with the "Write Serato Metadata" function in Mixxx, as importing them without folder data will have the playlist default to the same folder the playlist file is in. 
 
