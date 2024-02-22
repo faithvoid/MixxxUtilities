@@ -10,6 +10,7 @@ A terminal program that shows CC/Note/Channel/Value input information for MIDI c
 Manually mapping out values by hand or via --controller-debug in Mixxx has been a NIGHTMARE for me, so I made this small program to leave running in the background while I map controls and work on their respective scripts. You'll need to convert the values to hexadecimal, but the MIDI mapping guide on Mixxx explains exactly how to do that!
 
 ## [m3ustrip](https://virtual.dimensionless.space/dj/m3ustrip)
+![](m3ustrip.png)
 
 HTML script that removes all folder information from .m3u/.m3u8 files. Useful for carrying your sets (including hotcues, BPM, etc) on a USB if you combine it with the "Write Serato Metadata" function in Mixxx, as importing them without folder data will have the playlist default to the same folder the playlist file is in. 
 
