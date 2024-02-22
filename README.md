@@ -2,6 +2,7 @@
 Various scripts and programs for simplifying one's workflow in Mixxx. 
 
 ## [MIDIScanner](https://github.com/faithvoid/MIDIScanner)
+![](https://github.com/faithvoid/MIDIScanner/raw/main/screenshot.png)
 
 A terminal program that shows CC/Note/Channel/Value input information for MIDI controllers, useful for mapping out MIDI devices for controller scripts. Currently only tested on Linux, should compile on all operating systems but has only been tested on Linux.
 
