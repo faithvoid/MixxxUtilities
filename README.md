@@ -1,5 +1,12 @@
 # MixxxUtilities
-Various python/shell scripts for simplifying one's workflow in Mixxx. 
+Various scripts and programs for simplifying one's workflow in Mixxx. 
+
+## [MIDIScanner](https://github.com/faithvoid/MIDIScanner)
+
+A terminal program that shows CC/Note/Channel/Value input information for MIDI controllers, useful for mapping out MIDI devices for controller scripts. Currently only tested on Linux, should compile on all operating systems but has only been tested on Linux.
+
+### Why(?)
+Manually mapping out values by hand or via --controller-debug in Mixxx has been a NIGHTMARE for me, so I made this small program to leave running in the background while I map controls and work on their respective scripts. You'll need to convert the values to hexadecimal, but the MIDI mapping guide on Mixxx explains exactly how to do that!
 
 ## [m3ustrip](https://virtual.dimensionless.space/m3ustrip)
 
