@@ -25,6 +25,3 @@ I was mainly looking for a quick and simple solution to backing up crate informa
 
 ### TODO:
 Change from proprietary .XLS exporting to the open-source .ODS formatting.
-
-### Why(?)
-To make controller development easier for everyone! 
